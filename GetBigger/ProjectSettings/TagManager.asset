@@ -8,6 +8,7 @@ TagManager:
   - Exit
   - Projectile
   - Health Collectible
+  - Enemy
   layers:
   - Default
   - TransparentFX
